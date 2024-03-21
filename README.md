@@ -56,10 +56,8 @@ result2 = inference.query(variables=[query_variable],evidence=evidence)
 print(result2)
 ```
 ## Output :
+![307594260-f1d60d8f-bda2-4082-9fcb-594eecd08ef9](https://github.com/rakesh9339/Ex2---AAI/assets/121115650/efe6f700-59ba-4b86-84a2-f7eb7eba5d64)
 
-![image](https://github.com/JoyceBeulah/Ex2---AAI/assets/118343698/95a26312-a25d-435a-8217-2c47f5ac2c21)
-
-![image](https://github.com/JoyceBeulah/Ex2---AAI/assets/118343698/f1d60d8f-bda2-4082-9fcb-594eecd08ef9)
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
